@@ -1,4 +1,2 @@
-module.exports = {
-    url: 'mongodb://localhost:27017/'
-  };
+export const url = 'mongodb://localhost:27017/moviesdb';
   
